@@ -25,12 +25,7 @@ This repository contains various embedded system projects developed using **STM3
 ## Directory Structure
 ```
 STM32F4_Projects/
-│── Project1_GPIO/
-│── Project2_UART/
-│── Project3_I2C_SPI/
-│── Project4_ADC_PWM/
-│── Project5_RTOS/
-│── .gitignore
+
 │── LICENSE
 │── README.md
 ```
